@@ -1,10 +1,12 @@
 # Asor-Development
-
 <img alt="GitHub" src="https://img.shields.io/github/license/shareed/Asor-Development">
 
 ______________________
 ## Mobile Version 1
-![MOBILE SITE](assets/rmmobile.png)
+<p align="center">
+  <img src="assets/rmmobile.png" alt="mobile site" />
+</p>
+
 _________________________
 ### Design
 ##### Color Scheme
