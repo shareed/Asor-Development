@@ -4,7 +4,7 @@
 ______________________
 ## Mobile Version 1
 <p align="center">
-  <img src="assets/rmmobile.png" alt="mobile />
+  <img src="assets/rmmobile.png" alt="mobile" />
 </p>
 
 _________________________
