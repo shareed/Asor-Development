@@ -7,6 +7,9 @@ ______________________
   <img src="assets/rmmobile.png" alt="mobile" />
 </p>
 
+#### Main Features
+- Hamburger Menu
+- Caousel
 _________________________
 ### Design
 ##### Color Scheme
