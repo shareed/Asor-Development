@@ -10,8 +10,8 @@ function Header() {
     <div>
       <Jumbotron fluid id="Header">
         <HamburgerMenu />
-        <Container fluid>
-          <h1 className="display-4">Asor Development</h1>
+        <Container className='container' fluid>
+          <h1 className='Asor'>ASOR DEVELOPMENT</h1>
           <p className="lead">Mollis pretium lorem primis senectus</p>
         </Container>
       </Jumbotron>
@@ -19,4 +19,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default Header
