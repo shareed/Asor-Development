@@ -4,6 +4,10 @@ export const menuItems = [
         url: '/home'
     },
     {
+        label: 'Services',
+        url: '/services'
+    },
+    {
         label: 'Websites',
         url: '/websites'
     },
@@ -12,23 +16,23 @@ export const menuItems = [
         url: '/apps'
     },
     {
+        label: 'Pricing',
+        url: '/pricing'
+    },
+    {
+        label: 'Get A Quote',
+        url: '/getaquote'
+    },
+    {
+        label: 'Portfolio',
+        url: '/portfolio'
+    },
+    {
+        label: 'About Us',
+        url: '/aboutus'
+    },
+    {
         label: 'Contact Us',
-        url: '/contact'
-    },
-    {
-        label: 'Home2',
-        url: '/home2'
-    },
-    {
-        label: 'Websites2',
-        url: '/websites2'
-    },
-    {
-        label: 'Apps2',
-        url: '/apps2'
-    },
-    {
-        label: 'Contact Us2',
-        url: '/contact2'
+        url: '/contactus'
     },
 ]

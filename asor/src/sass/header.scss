@@ -1,9 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&family=Roboto+Condensed:ital@1&display=swap');
 #Header {
+    display: flex;
     margin: 0;
     padding: 0;
     background: var(--lightblue);
-    height: 20vh;
-    p {
-        font-size: 1.5rem;
+    height: 15vh;
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        .Asor {
+            font-size: 3rem;
+            font-family: 'Open Sans Condensed', sans-serif;
+            color: var(--darkslategray);
+        }
+        p {
+            font-family: 'Roboto Condensed', sans-serif;
+            color: var(--steelblue);
+            font-size: 1rem;
+        }
     }
+    
 }
