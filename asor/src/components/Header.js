@@ -1,3 +1,4 @@
+import React from 'react';
 import { Jumbotron, Container } from 'reactstrap';
 import HamburgerMenu from './menu/hamburgerMenu';
 
