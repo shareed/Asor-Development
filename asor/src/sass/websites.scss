@@ -1,0 +1,10 @@
+.websites-container {
+    margin: 1rem;
+    .websites-intro {
+        background: var(--lightblue);
+        color: var(--darkslategray);
+        -webkit-box-shadow: inset 0px 0px 7px 2px rgba(29,53,87,1);
+        -moz-box-shadow: inset 0px 0px 7px 2px rgba(29,53,87,1);
+        box-shadow: inset 0px 0px 7px 2px rgba(29,53,87,1);
+    }
+}
