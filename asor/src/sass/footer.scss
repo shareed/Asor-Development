@@ -1,29 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&family=Roboto+Condensed:ital@1&display=swap');
+
 #footer-container {
     padding-left: 0;
     padding-right: 0;
     background: var(--darkslategray);
     color: var(--lightblue);
-    #Footer {
-        width: 100%;
-        display: flex;
-        margin: 0;
-        padding: 0;
-        background: var(--lightblue);
-        color: var(--darkslategray);
-        .footer-container1 {
-            
-        }
-        .footer-container2 {
-            display: flex;
-        }
-        .divider {
-            width: 2px;
-            margin: 6px 0;
-            background: var(--darkslategray);
-          }
 
-    }
-    h1 {
-        color: var(--lightblue);
+    .footer-top{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        h1 {
+            color: var(--lightblue);
+            font-size: 2rem;
+            font-family: 'Open Sans Condensed', sans-serif;
+
+        }
+ 
+        .social-container {
+            width: 90%;
+            display: flex;
+            justify-content: space-between;
+            margin: 1rem;  
+        }
+
+    }  
+
+    .copyrights {
+        margin-top: 2rem;
+        text-align: center;
     }
 }
+
+
+
+#footer-middle {
+    width: 100%;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    background: var(--lightblue);
+    color: var(--darkslategray);
+
+    .footer-container1 {
+
+        .footer-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+
+            p {
+                margin: 1rem 0 .5rem 0 ;
+                font-family: 'Open Sans Condensed', sans-serif;
+                font-size: 1.3rem;
+                text-align: center;
+            }
+
+            .footer-menu {
+                display: flex;
+                justify-content: space-between;
+            }
+
+            .footer-menu-list-item {
+                margin: .5rem .5rem;
+                font-family: 'Roboto Condensed', sans-serif;
+                font-size: 1rem;
+            }
+
+        }
+        
+    }
+
+    .divider {
+        width: 2px;
+        margin: 6px 0;
+        background: var(--darkslategray);
+    }
+
+    .footer-container2 {
+        display: flex;
+
+        .p-heading {
+            margin: 1rem 0 .5rem 0 ;
+            font-family: 'Open Sans Condensed', sans-serif;
+            font-size: 1.3rem;
+            text-align: center;
+        }
+
+        p {
+            margin: .5rem .5rem;
+            font-family: 'Open Sans Condensed', sans-serif;
+            font-size: 1.3rem;
+            text-align: center;
+        }
+
+    }
+
+}
+
+
