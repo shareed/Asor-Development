@@ -85,7 +85,7 @@ const Footer = () => {
                     </Container>
                 </div>
                 <div className='copyrights'>
-                <p>CopyRights<span> &copy; </span>2021 Asor Development</p>
+                <p>Copyright<span> &copy; </span>2021 Asor Development</p>
                 </div>
             </Jumbotron>
         </div>
