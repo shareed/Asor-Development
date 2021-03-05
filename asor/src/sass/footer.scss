@@ -1,0 +1,29 @@
+#footer-container {
+    padding-left: 0;
+    padding-right: 0;
+    background: var(--darkslategray);
+    color: var(--lightblue);
+    #Footer {
+        width: 100%;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        background: var(--lightblue);
+        color: var(--darkslategray);
+        .footer-container1 {
+            
+        }
+        .footer-container2 {
+            display: flex;
+        }
+        .divider {
+            width: 2px;
+            margin: 6px 0;
+            background: var(--darkslategray);
+          }
+
+    }
+    h1 {
+        color: var(--lightblue);
+    }
+}
