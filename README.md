@@ -8,7 +8,7 @@
 ______________________
 ## [Mobile Version 1](https://www.figma.com/file/aBMU0I7FThXHbc4zRPrhZN/Website-1st-draft?node-id=0%3A3)
 <p align="center">
-  <img src="design-assets/asormobile.png" alt="mobile" />
+  <img src="designfiles/asormobile.png" alt="mobile" />
 </p>
 
 #### Main Features
